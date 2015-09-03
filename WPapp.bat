@@ -1,0 +1,1 @@
+"C:\Users\pbrandicourt\Documents\R\R-3.1.2\bin\R.exe" CMD BATCH "launchWPApp.R"
